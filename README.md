@@ -9,3 +9,4 @@
 🚀 Tureyko Dmitriy  
 *Student of Urban Online University in the field of Python Developer*  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deemon1988&show_icons=true&theme=radical)
