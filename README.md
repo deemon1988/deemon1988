@@ -1,6 +1,5 @@
 ## Hi there, I’m Dmitrii! 👋
 
-<img src="https://img.shields.io/badge/py-python-blue?logo=python" alt="Python" width="60" />
 <img src="https://img.shields.io/badge/-web_dev-orange" alt="Web Dev" width="60" />
 <img src="https://img.shields.io/badge/-ai-green?logo=openai" alt="AI" width="60" />
 
