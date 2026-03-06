@@ -5,7 +5,7 @@
 
 ## [🤖 Connect on GitHub](https://github.com/deemon1988)
 
-🚀 **Tureyko Dmitrii — Web & AI Developer**
+🚀 **Tureiko Dmitrii — Web & AI Developer**
 
 I turn ideas into digital reality: from sleek landing pages that convert to smart chatbots that work 24/7. My superpower? Combining clean Python code with modern web technologies and artificial intelligence.
 
