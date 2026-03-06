@@ -1,12 +1,20 @@
-## Hi there 👋
+## Hi there, I’m Dmitrii! 👋
 
+<img src="https://img.shields.io/badge/py-python-blue?logo=python" alt="Python" width="60" />
+<img src="https://img.shields.io/badge/-web_dev-orange" alt="Web Dev" width="60" />
+<img src="https://img.shields.io/badge/-ai-green?logo=openai" alt="AI" width="60" />
 
-<img src="https://img.shields.io/badge/py-python-blue?logo=python" alt="The Unlimited" widht=600 />
+## [🤖 Connect on GitHub](https://github.com/deemon1988)
 
+🚀 **Tureyko Dmitrii — Web & AI Developer**
 
-##  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/deemon1988)  About Me
+I turn ideas into digital reality: from sleek landing pages that convert to smart chatbots that work 24/7. My superpower? Combining clean Python code with modern web technologies and artificial intelligence.
 
-🚀 Tureyko Dmitriy  
-*I'm learning programming in the field of Python Developer*  
+**I help businesses:**
+- Launch stunning, responsive websites and landing pages
+- Automate customer service with intelligent AI chatbots
+- Enhance user experience with smart, data‑driven features
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deemon1988&show_icons=true&theme=radical)
+Tech I use: Python, HTML/CSS, JavaScript, AI frameworks, APIs.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deemon1988&show_icons=true&theme=radical)
